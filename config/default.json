@@ -1,0 +1,11 @@
+{
+    "port":5000,
+    "mongo":{
+        "url": "mongodb+srv://managementwebtool:managementwebtoolpass@managementwebtool.q4zyel0.mongodb.net/",
+        "dbName": "CodingPlace"
+    },
+    "auth": {
+        "salt": 10,
+        "secret": "orel_kakon_secret"
+    }
+}
